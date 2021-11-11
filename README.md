@@ -1,1 +1,2 @@
-# countdown
+# pomodoro-timer
+pomodoro-timer
